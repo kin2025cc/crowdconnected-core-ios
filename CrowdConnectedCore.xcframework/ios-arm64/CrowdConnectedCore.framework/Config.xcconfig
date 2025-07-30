@@ -1,0 +1,12 @@
+//
+//  Config.xcconfig
+//  CrowdConnectedCore
+//
+//  Created by yu on 29/07/2025.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://developer.apple.com/documentation/xcode/adding-a-build-configuration-file-to-your-project
+
+MARKETING_VERSION=lib-2.1.2
+CURRENT_PROJECT_VERSION=50
